@@ -4,10 +4,10 @@
   "description": "",
   "main": "todo.js",
   "scripts": {
-    "test": "jest",
+    "test": "test",
     "prepare": "husky install"
   },
-  "author": "Karthik",
+  "author": "sriram",
   "license": "ISC",
   "devDependencies": {
     "husky": "^8.0.1",
